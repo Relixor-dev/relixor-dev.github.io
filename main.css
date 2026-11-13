@@ -1,6 +1,4 @@
 /* Import custom editorial fonts from Google Fonts */
-@import url('https://googleapis.com');
-
 body {
   font-family: 'Lora', Georgia, serif;
   max-width: 720px;
