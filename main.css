@@ -29,12 +29,24 @@ h2 {
   margin-bottom: 0.5rem;
 }
 
+h1:hover {
+  font-size: 2.3rem;
+  font-weight: 700;
+  color: #60a730;
+}
+
+h2:hover {
+  font-size: 1.65rem;
+  font-weight: 700;
+  color: #60a730;
+}
 
 /* Poem Text */
 p {
+  font-size: 1rem;
   margin-top: 0;
   margin-bottom: 1.75rem;
-  white-space: pre-line; /* Preserves line breaks/stanzas typed in your HTML */
+  white-space: pre-line; 
 }
 
 a {
